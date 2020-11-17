@@ -1,4 +1,8 @@
 # Console .NET Game Application
+Infelizmente o projeto ainda está incompleto. Quando for possível aprender o suficiente, venho o terminar.
+
+![Sad cat](https://i.imgur.com/0Togsm0.png)
+
 ## Autor
 
 * **Bernardo Medeiros** - [BsouzaM Github](https://github.com/BsouzaM).
