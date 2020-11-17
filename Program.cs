@@ -1,12 +1,21 @@
 ﻿using System;
+using System.Text;
+using System.Threading;
 
-namespace ConsoleGameApplication
+namespace ConsoleApplicationNET
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        #region Main
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            #region Variáveis
+            WriteLines.Program_Args_Question();
+            // Imprime caracteres UTF8:
+            Console.OutputEncoding = Encoding.UTF8;
+            #endregion
         }
     }
+    #endregion
 }
+
