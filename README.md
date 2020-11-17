@@ -1,7 +1,9 @@
 # Console .NET Game Application
-Infelizmente o projeto ainda está incompleto. Quando for possível aprender o suficiente, venho o terminar.
+Infelizmente o projeto ainda está incompleto. Quando eu for capaz de programar bem, venho-o terminar.
 
 ![Sad cat](https://i.imgur.com/0Togsm0.png)
+
+[Clique aqui](https://hastebin.com/imucayuhuh.yaml) para ver a meta final do projeto.
 
 ## Autor
 
