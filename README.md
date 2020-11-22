@@ -1,5 +1,5 @@
 # Console .NET Game Application
-Infelizmente o projeto ainda está incompleto. Quando eu for capaz de programar bem, venho-o terminar.
+Este projeto iniciou-se em 2019. Infelizmente o projeto ainda está incompleto. Quando eu for capaz de programar bem, venho-o terminar.
 
 ![Sad cat](https://i.imgur.com/0Togsm0.png)
 
