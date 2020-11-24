@@ -1,0 +1,13 @@
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\bin\Debug\netcoreapp3.1\ConsoleGameApplication.exe
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\bin\Debug\netcoreapp3.1\ConsoleGameApplication.deps.json
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\bin\Debug\netcoreapp3.1\ConsoleGameApplication.runtimeconfig.json
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\bin\Debug\netcoreapp3.1\ConsoleGameApplication.runtimeconfig.dev.json
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\bin\Debug\netcoreapp3.1\ConsoleGameApplication.dll
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\bin\Debug\netcoreapp3.1\ConsoleGameApplication.pdb
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\obj\Debug\netcoreapp3.1\ConsoleGameApplication.csprojAssemblyReference.cache
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\obj\Debug\netcoreapp3.1\ConsoleGameApplication.AssemblyInfoInputs.cache
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\obj\Debug\netcoreapp3.1\ConsoleGameApplication.AssemblyInfo.cs
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\obj\Debug\netcoreapp3.1\ConsoleGameApplication.csproj.CoreCompileInputs.cache
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\obj\Debug\netcoreapp3.1\ConsoleGameApplication.dll
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\obj\Debug\netcoreapp3.1\ConsoleGameApplication.pdb
+C:\Users\MystAnorak\source\repos\ConsoleGameApplication\obj\Debug\netcoreapp3.1\ConsoleGameApplication.genruntimeconfig.cache
