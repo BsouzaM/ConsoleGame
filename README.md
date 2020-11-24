@@ -1,4 +1,10 @@
 # Console .NET Game Application
+Este projeto iniciou-se em 2019. Infelizmente o projeto ainda está incompleto. Quando eu for capaz de programar bem, venho-o terminar.
+
+![Sad cat](https://i.imgur.com/0Togsm0.png)
+
+[Clique aqui](https://hastebin.com/imucayuhuh.yaml) para ver a meta final do projeto.
+
 ## Autor
 
 * **Bernardo Medeiros** - [BsouzaM Github](https://github.com/BsouzaM).
